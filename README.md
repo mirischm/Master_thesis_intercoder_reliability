@@ -1,2 +1,2 @@
 # Master_thesis_intercoder_reliability
-R codes for measuring intercoder reliabilty for my master thesis
+Codebook for coding and R codes for measuring intercoder reliabilty for my master thesis
